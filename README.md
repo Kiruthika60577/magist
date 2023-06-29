@@ -1,1 +1,1 @@
-# magist
+# magist_database
